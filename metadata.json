@@ -1,0 +1,5 @@
+{
+  "description": "Hydrometallurgical Digital Twin (HDT) Dashboard visualizing SX simulation, AI optimization, and compliance checking.",
+  "requestFramePermissions": [],
+  "name": "HDT"
+}
